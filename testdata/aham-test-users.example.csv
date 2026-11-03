@@ -1,0 +1,4 @@
+email,password
+load-user-001@example.test,REPLACE_WITH_VALID_STAGING_PASSWORD
+load-user-002@example.test,REPLACE_WITH_VALID_STAGING_PASSWORD
+load-user-003@example.test,REPLACE_WITH_VALID_STAGING_PASSWORD
