@@ -1,4 +1,4 @@
-# performance-jmeter-example
+# performance-jmeter
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/lynix28/performance-jmeter-example/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/lynix28/performance-jmeter-example/tree/master)
 
