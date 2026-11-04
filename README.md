@@ -1,12 +1,3 @@
-# performance-jmeter
-
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/lynix28/performance-jmeter-example/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/lynix28/performance-jmeter-example/tree/master)
-
-Performance test example project using Apache JMeter
-
-Additional plugins need to install via "JMeter Plugins Manager":
-- Custom Thread Group
-- GRPC Request
 
 How to run:
 - Run `jmeter -n -t <location/to/testplan> -l reports/result.jtl`
